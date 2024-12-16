@@ -1,0 +1,36 @@
+div{
+    height: 300px;
+    width: 300px;
+    background-color: blue;
+}
+.p-1{
+    height: 50%;
+    width: 75%;
+    background-color: aqua;
+}
+.p-2{
+    overflow: hidden;
+    height: 300px;
+    width: 300px;
+}
+.p-3{
+    overflow: scroll;
+    height: 300px;
+    width: 300px;
+}
+.p-4{
+    border: solid;
+    border-width: 5px 8px 10px 12px;
+}
+.p-5{
+    border-top: dotted #ff0000;
+    border-left: dashed #ffff00;
+    border-right: double #800080;
+    border-bottom: groove #008000;
+}
+.p-6{
+    border-top: ridge #ffa500;
+    border-left: inset #808080;
+    border-right: outset #a52a2a;
+    border-bottom: solid #00ffff;
+}
